@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ General knowledge in software development, backend, frontend, mobile and AI.<br>📚 I'm currently learning react native.</p>
+<p align="left">✨ General knowledge in software development, backend, frontend, mobile and AI.<br>📚 I'm currently learning node js.</p>
 
 ###
 
